@@ -35,8 +35,8 @@ const allAboutMe = {
         }
       ],
       education: {
-        major: 'Computer Science'
-        college: 'Georgia Institute of Technology'
+        major: 'Computer Science',
+        college: 'Georgia Institute of Technology',
         gradYear: '2020'
    },
    socials: {
