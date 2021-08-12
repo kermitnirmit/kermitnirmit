@@ -10,7 +10,7 @@ const allAboutMe = {
    languages: ['Python', 'Java', 'Kotlin'],
    experience: {
       current: {
-        title: 'Software Engineer, 
+        title: 'Software Engineer', 
         company: 'Square / CashApp', 
         start: 'Jan 2021'
       },
@@ -35,13 +35,13 @@ const allAboutMe = {
         }
       ],
       education: {
-        major: 'Computer Science`
+        major: 'Computer Science'
         college: 'Georgia Institute of Technology'
         gradYear: '2020'
    },
    socials: {
-      twiter: 'http://twitter.com/kermitnirmit',
-      instagram: 'http://instagram/kermitnirmit',
+      twitter: 'https://twitter.com/kermitnirmit',
+      instagram: 'https://instagram/kermitnirmit',
    },
    favorites: {
       song: 'I Knew You Were Trouble',
