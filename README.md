@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-```
+```javascript
 const allAboutMe = {
   name: {
       first: "Nirmit",
