@@ -41,7 +41,7 @@ const allAboutMe = {
    },
    socials: {
       twitter: 'https://twitter.com/kermitnirmit',
-      instagram: 'https://instagram/kermitnirmit',
+      instagram: 'https://instagram.com/kermitnirmit',
    },
    favorites: {
       song: 'I Knew You Were Trouble',
