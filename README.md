@@ -11,10 +11,16 @@ const allAboutMe = {
  experience: {
   current: {
     title: 'Software Engineer', 
-    company: 'Square / CashApp', 
-    start: 'Jan 2021'
+    company: 'Citadel', 
+    start: 'Jan 2024'
   },
   past: [
+    {
+      title: 'Software Engineer',
+      company: 'Block',
+      start: 'Jan 2021',
+      end: 'Jan 2024'
+    },
     {
       title: 'Software Engineering Intern',
       company: 'Riot Games',
@@ -41,7 +47,6 @@ const allAboutMe = {
   }
  },
  socials: {
-    twitter: 'https://twitter.com/kermitnirmit',
     instagram: 'https://instagram/kermitnirmit',
  },
  favorites: {
