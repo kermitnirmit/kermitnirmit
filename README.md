@@ -10,11 +10,17 @@ const allAboutMe = {
  languages: ['Python', 'Java', 'Kotlin'],
  experience: {
   current: {
-    title: 'Software Engineer', 
-    company: 'Citadel', 
-    start: 'Jan 2024'
+    title: 'Senior Software Engineer', 
+    company: 'Private Company', 
+    start: 'Sep 2025'
   },
   past: [
+    {
+      title: 'Software Engineer',
+      company: 'Citadel',
+      start: 'Jan 2024',
+      end: 'Aug 2025'
+    },
     {
       title: 'Software Engineer',
       company: 'Block',
@@ -45,15 +51,6 @@ const allAboutMe = {
     college: 'Georgia Institute of Technology',
     gradYear: '2020'
   }
- },
- socials: {
-    instagram: 'https://instagram/kermitnirmit',
- },
- favorites: {
-    song: 'I Knew You Were Trouble',
-    movie: 'The Prestige',
-    game: ['League of Legends', 'Chess'],
-    book: 'The Martian'
  }
 }
 
